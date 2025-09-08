@@ -6,13 +6,13 @@ An interactive sales analysis dashboard built using **Excel**, focused on uncove
 
 ---
 
-## 📊 About the Project
+##  About the Project
 McDonald’s is the world’s largest fast-food chain, serving 69M+ customers daily across 100+ countries.  
 This dashboard analyzes **3 months of sales data (Jan–Mar 2023)** to track orders, revenue, and menu performance, helping identify patterns and opportunities for growth.
 
 ---
 
-## 🗂️ Dataset Coverage
+##  Dataset Coverage
 - **Period:** 1 Jan 2023 → 31 Mar 2023  
 - **Total Sales (Revenue):** $61,626.29  
 - **Total Orders:** 5,370  
@@ -21,7 +21,7 @@ This dashboard analyzes **3 months of sales data (Jan–Mar 2023)** to track ord
 
 ---
 
-## 🔑 Key Insights
+##  Key Insights
 1. **Most Ordered Item:** Side Salad  
 2. **Top Revenue Categories:**
    - Burgers (~$20K+)  
@@ -46,7 +46,7 @@ This dashboard analyzes **3 months of sales data (Jan–Mar 2023)** to track ord
 
 ---
 
-## 📌 Recommendations
+##  Recommendations
 - Focus promotions during **lunch & dinner hours** for max impact.  
 - Introduce **mid-week offers** to boost Wednesday sales.  
 - Bundle **high-performing burgers & chicken items** with low-selling products.  
@@ -54,12 +54,12 @@ This dashboard analyzes **3 months of sales data (Jan–Mar 2023)** to track ord
 
 ---
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 - **Excel** (Data Cleaning, Analysis, Dashboard)  
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Himani Gautam**  
 📧 Email: gautamhimani059@gmail.com  
 
