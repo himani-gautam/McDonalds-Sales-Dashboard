@@ -54,13 +54,13 @@ This dashboard analyzes **3 months of sales data (Jan–Mar 2023)** to track ord
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Excel** (Data Cleaning, Analysis, Dashboard)  
 
 ---
 
 ##  Author
 **Himani Gautam**  
-📧 Email: gautamhimani059@gmail.com  
+ Email: gautamhimani059@gmail.com  
 
 ---
