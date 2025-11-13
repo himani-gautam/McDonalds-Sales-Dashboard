@@ -61,6 +61,6 @@ This dashboard analyzes **3 months of sales data (Jan–Mar 2023)** to track ord
 
 ##  Author
 **Himani Gautam**  
- Email: gautamhimani059@gmail.com  
+ Email: himanigautam059@gmail.com  
 
 ---
